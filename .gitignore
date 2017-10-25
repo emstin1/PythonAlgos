@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+bin/
+include/
+lib64
+lib/
+share/python-wheels
+pip-selfcheck.json
+pyvenv.cfg
